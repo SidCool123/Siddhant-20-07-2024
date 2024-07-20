@@ -31,6 +31,10 @@ This project is a Bus Ticket Reservation System that allows users to search for 
 - Maven
 - MySQL
 
+### Unable to connect to DB
+
+Getting exception while connecting my code to DB
+
 ### Installation
 
 1. Clone the repository:
